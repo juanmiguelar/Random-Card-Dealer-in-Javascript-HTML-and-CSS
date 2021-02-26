@@ -1,1 +1,33 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.bgGreen {
+  background-color: green;
+}
+
+.card {
+  margin-top: 25px;
+  width: 250px;
+  height: 340px;
+  border: solid black 1px;
+  border-radius: 6px;
+}
+
+.symbol {
+  font-size: 80px;
+}
+
+.left {
+  margin-top: -20px;
+}
+
+.number {
+  text-align: center;
+}
+
+.right {
+  text-align: right;
+}
+
+.number {
+  font-size: 80px;
+}
